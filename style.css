@@ -27,6 +27,17 @@ h1{
 font-style: bold;
   font-family:Lucida Console;
   font-size:2vw;
+  color:blue
   
+
+}
+.textarea{
+  margin-left:100px;
+  width: 1100px;
+  height: 150px;;
+  background-color: white;
+  text-decoration-color: black;
+  text-align:center;
+  font-size:5vw
 
 }
