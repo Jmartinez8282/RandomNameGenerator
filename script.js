@@ -1,4 +1,4 @@
-var randomButton = document.getElementById('generate'),
+let randomButton = document.getElementById('generate'),
     randomField = document.getElementById('random-student');
 
 const students = ['Jonathan Stewart', 'Joseph Perez','Nimish Lal','Jose angel Pantoja','Trevor Edwards','Jose Martinez','Johny Uribe','Deon Simmons','Robert Burns','Carter Galvez',
